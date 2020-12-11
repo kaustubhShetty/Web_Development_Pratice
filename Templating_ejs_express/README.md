@@ -1,0 +1,1 @@
+Practicing Templating with ejs. Templating is like fill in the blanks. We make the html layout and then fill it with javascript dynamic material. ejs stands for embedded javascript. It allows us to combine html with javascript. Our express server is index.js and our ejs templates are in views. The index.js will by default search the ejs file in views folder.
