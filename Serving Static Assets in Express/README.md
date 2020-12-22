@@ -6,5 +6,5 @@
 <p>STEP2 - Write these commands in your express app</p>
 <p> const path = require('path');</p>
 <p> app.use(express.static(path.join(__dirname,'public')));  </p>
-<p>STEP3 - Add the link of your Static file to your ejs file eg.     <link rel="stylesheet" href="/app.css"> </p>
+<p>STEP3 - Add the link of your Static file to your ejs file eg.<link rel="stylesheet" href="/app.css"> </p>
  
