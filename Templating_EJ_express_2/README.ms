@@ -1,1 +1,0 @@
-Here I add on to the previous Templating_EJ_express_1 project. Here I mimic data coming from database in data.json. I extract the data from data.json according to the subreddit name in url and send this info to subreddit.ejs where this info is displayed.
