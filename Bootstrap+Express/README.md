@@ -10,3 +10,5 @@
 <p>9.In subreddit.ejs file write     <script src="/js/jquery.js"></script> </p>
 <p>and below that write     <script src="/js/bootstrap.min.js"></script></p>
 <p>And now you can use bootstrap.</p>
+
+<p> A bootstrap navbar has been added to subreddit.ejs </p>
