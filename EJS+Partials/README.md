@@ -1,7 +1,7 @@
 <h1> EJS+Partials </h1>
 <p> Partials are a way of <b>including</b> templates in other templates </p>
 <p> They are useful if we have some code, markup that we are duplicating</p>
-<p> They are called includes in ejs </p>
+<p> They are called "Includes" in ejs </p>
 <p> Lets take 2 examples</p>
 <p>1. We take the head of ejs files, put all the code of head in a new template ie. views(folder)->partials(folder)->head.ejs(file)</p>
 <p> Wherever you want to include this head code in other templates we write <b><%-include('partials/head')%></b></p>
