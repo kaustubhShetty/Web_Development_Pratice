@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random</title>
+</head>
+<body>
+    <%- include('partials/navbar.ejs') %>
+
+    <h1>Your Random Number is: <%= randVariable%></h1>// The variable rand we passed from our index.js to this template page
+    <% if(randVariable%2===0) {  %>
+        <h2>Its an even number</h2>
+    <%} else{ %> 
+    <h2>Its an odd number</h2>
+    <%} %>
+</body>
+</html> 
+
+<!--surround every line of js with <%  %> for control flow-->
