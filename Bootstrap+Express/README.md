@@ -11,4 +11,5 @@
 <p>and below that write     <script src="/js/bootstrap.min.js"></script></p>
 <p>And now you can use bootstrap.</p>
 
-<p> A bootstrap navbar has been added to subreddit.ejs </p>
+<h3> A bootstrap navbar has been added to subreddit.ejs </h3>
+ 
